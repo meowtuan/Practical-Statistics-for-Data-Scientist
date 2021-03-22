@@ -1,3 +1,3 @@
 # Practical-Statistics-for-Data-Scientist
 
-This will be notes for Practical Statistics for Data Scientist.
+Personal notes for the book Practical Statistics for Data Scientist.
